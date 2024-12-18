@@ -1,0 +1,19 @@
+S.No     Products          Price             Quantity
+------------------------------------------------------
+Fresh Produces:
+1.       Apples            Rs. 200           1 kg
+2.       Bananas           Rs. 150           1 dozen
+3.       Potatoes          Rs. 120           1 kg
+4.       Tomatoes          Rs. 150           1 kg
+
+Dairy and Eggs:
+5.       Milk              Rs. 200           1 kg
+6.       Eggs              Rs. 300           1 dozen
+7.       Butter            Rs. 80            1 pack
+8.       Cheese            Rs. 100           10 slices
+
+Bakery Items:
+9.       Bread             Rs. 50            5 slices
+10.      Cupcakes          Rs. 100           2 cupcakes
+11.      Muffins           Rs. 100           2 muffins
+12.      Rusk              Rs. 100           1 pack
